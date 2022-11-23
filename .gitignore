@@ -1,3 +1,4 @@
 node_modules
 config
-tests
+tests/__mocks__
+.DS_Store
